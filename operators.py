@@ -22,7 +22,30 @@ print("Exponentiation:", exponentiation)
 
 
 # Assignment Operators
-# Comparison Operators
+c = 5
+c += 2  # equivalent to c = c + 2
+c -=2 # equivalent to c = c - 2
+c  *= 2  # equivalent to c = c * 2u
+c /= 2  # equivalent to c = c / 2
+
+# Comparison Operators (==, !=, >, <, >=, <=)
+
+a = 10
+b = 5
+
+
+print(a == b) 
+
+print(a>b)
+print(a<b)
+print(a==b)
+
+print(a != b)
+
+print(a >= b)
+
+
+
 # Logical Operators
 # Bitwise Operators
 # Special Operators
